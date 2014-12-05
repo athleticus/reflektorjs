@@ -1,0 +1,11 @@
+{
+  "name": "reflektor",
+  "version": "0.0.0",
+  "description": "Interface with Mir:ror by Violet using the reklector command line script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Martin",
+  "license": "ISC"
+}
