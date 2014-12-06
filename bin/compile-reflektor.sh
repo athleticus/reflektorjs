@@ -1,0 +1,1 @@
+(cd ./bin/reflektor/reflektor-0.1a/ && ./configure && make)
