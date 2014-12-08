@@ -1,5 +1,5 @@
 {
-  "name": "reflektor",
+  "name": "reflektorjs",
   "version": "0.0.1",
   "description": "Interface with Mir:ror by Violet using the reklector command line script.",
   "repository": "https://github.com/athleticus/reflektorjs.git",
