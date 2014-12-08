@@ -1,9 +1,14 @@
 {
   "name": "reflektorjs",
   "version": "0.0.1",
+<<<<<<< HEAD
   "description": "Interface with Mir:ror by Violet, piggy-backing off the reklector command line script.",
   "repository": "https://github.com/athleticus/reflektorjs.git",
   "url": "https://github.com/athleticus/reflektorjs.git",
+=======
+  "description": "Interface with Mir:ror by Violet using the reklector command line script.",
+  "repository": "https://github.com/athleticus/reflektorjs/",
+>>>>>>> parent of 2f22ced... Added url.
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
