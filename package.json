@@ -1,5 +1,5 @@
 {
-  "name": "reflektor",
+  "name": "reflektorjs",
   "version": "0.0.1",
   "description": "Interface with Mir:ror by Violet, piggy-backing off the reklector command line script.",
   "repository": "https://github.com/athleticus/reflektorjs.git",
@@ -10,15 +10,20 @@
   },
   "author": "Ben Martin",
   "license": "ISC",
+  "files": [
+    "bin"
+  ],
   "dependencies": {
     "underscore": "^1.7.0",
     "underscore.string": "^2.4.0"
   },
   "scripts": {
     "install": "./bin/compile-reflektor.sh",
-    "update": "./bin/compile-reflektor.sh"
+    "update": "./bin/compile-reflektor.sh",
+    "preinstall": "./bin/compile-reflektor.sh",
+    "preupdate": "./bin/compile-reflektor.sh"
   },
   "bin": {
-    "reflektor": "./bin/reflektorjs/reflektor-0.1a/reflektor"
+    "reflektor": "./bin/reflektor/reflektor-0.1a/src/reflektor"
   }
 }

@@ -2,7 +2,7 @@ var EventEmitter = require("events").EventEmitter;
 var ref = new EventEmitter();
 
 var spawn = require('child_process').spawn;
-reflektor = spawn('./bin/reflektorjs/reflektor-0.1a/reflektor');
+reflektor = spawn('./bin/reflektor/reflektor-0.1a/reflektor');
 
 var _  = require('underscore');
 _.str = require('underscore.string');
