@@ -19,6 +19,6 @@
     "update": "./bin/compile-reflektor.sh"
   },
   "bin": {
-    "reflektor": "./bin/reflektor/reflektor-0.1a/reflektor"
+    "reflektor": "./bin/reflektorjs/reflektor-0.1a/reflektor"
   }
 }
